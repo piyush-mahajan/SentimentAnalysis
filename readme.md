@@ -1,0 +1,1 @@
+ Simple to Implement End-to-end Project with HuggingFace: Generating a Ready-to-use HuggingFace Model with FastAPI and Docker
